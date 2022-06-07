@@ -1,5 +1,5 @@
 
-# A Password Generator App for those who prioriteze their safety!
+# A Password Generator App for those who prioritize their safety!
 
 
 ## 🛠 Skills
